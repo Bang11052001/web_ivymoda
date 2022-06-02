@@ -27,6 +27,9 @@
                         <p>Đặt hàng online: 0246 662 3434</p>
                         <br>
                         <p>©Ivymoda All rights reserved</p>
+                        <p>©Ivymoda All rights reserved1</p>
+                        <p>©Ivymoda All rights reserved2</p>
+                        <p>©Ivymoda All rights reserved3</p>
                     </div>
                 
             </section>
